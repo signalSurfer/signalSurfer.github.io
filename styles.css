@@ -3,4 +3,8 @@ h1 {
 }
 .blocky {
     display: block;
+    width: 100%;
+}
+.circ {
+    border-radius: 50%;
 }
